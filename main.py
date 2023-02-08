@@ -4,7 +4,7 @@ from tkinter import ttk
 from pytube import YouTube
 from pytube import exceptions
 from datetime import datetime, timedelta
-import winreg
+import winreg 
 
 class Youtube_Downloader():
     #initialization and create basic variables
